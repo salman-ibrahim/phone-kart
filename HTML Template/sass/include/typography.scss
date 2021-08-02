@@ -1,0 +1,38 @@
+/*       Typography Classes      */
+
+.font-black-50 {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.font-baloo {
+    font-family: $font-baloo;
+}
+
+.font-raleway {
+    font-family: $font-raleway;
+}
+
+.font-rubik {
+    font-family: $font-rubik;
+}
+
+.font-size-12{
+    font-size: 12px;
+}
+
+.font-size-14{
+    font-size: 14px;
+}
+
+.font-size-16{
+    font-size: 16px;
+}
+
+.font-size-20{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
