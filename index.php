@@ -7,7 +7,7 @@ require 'header.php';
 echo '<main id="main-site">';
 
 // Banner Area
-include 'templates/_banner_area.php';
+require 'templates/_banner_area.php';
 // Best Selling
 require 'templates/_best_selling.php';
 // Hot Products
